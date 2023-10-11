@@ -1,1 +1,1 @@
-
+Golden Blood is a blood center website involved in blood donation and sales, in order to enhance the process by increasing security, reliability, and efficiency of the process by managing data related to blood donors, recipients, and an overall idea about the current stock.
